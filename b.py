@@ -1,1 +1,3 @@
 b = "TesteB"
+
+print(b)
