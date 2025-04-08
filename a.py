@@ -1,1 +1,3 @@
 a = "TesteA"
+
+print(a)
